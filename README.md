@@ -1,5 +1,5 @@
 # MultiThread
-A small application in Java that shows the complete picture of mutlithread. Funtionalities like join, sleep, Thread group are implement. 
+A small application in Java that shows the complete picture of mutlithread. Funtionalities like join, sleep, Thread group are implemented. 
 
 Application
 -----------
